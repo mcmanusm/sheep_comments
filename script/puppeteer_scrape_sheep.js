@@ -18,7 +18,7 @@ const puppeteer = require('puppeteer');
     // --------------------------------------------------------
 
     let previousMetrics = null;
-    const outputFile = "sheepmetrics.json";
+    const outputFile = "../sheepmetrics.json";
 
     if (fs.existsSync(outputFile)) {
         previousMetrics = JSON.parse(fs.readFileSync(outputFile, "utf8"));
