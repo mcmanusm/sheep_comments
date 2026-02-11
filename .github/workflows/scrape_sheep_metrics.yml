@@ -1,14 +1,11 @@
 name: Scrape Sheep Metrics
-
 on:
   schedule:
     # Run every day at 6 AM UTC (adjust as needed)
     - cron: '0 6 * * *'
   workflow_dispatch: # Allows manual triggering
-
 permissions:
   contents: write
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -26,6 +23,9 @@ jobs:
         run: |
           cd script
           npm install puppeteer
+      
+      - name: Install Chromium
+        run: npx puppeteer browsers install chrome
       
       - name: Run scraper
         run: |
