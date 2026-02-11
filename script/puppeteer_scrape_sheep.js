@@ -1,8 +1,3 @@
-- name: Install Chromium
-  run: npx puppeteer browsers install chrome
-
-- name: Run scrape script
-  run: cd script && node puppeteer_scrape_sheep.js
 
 // ============================================================
 // puppeteer_scrape_sheep.js - Sheep Metrics Scraper
