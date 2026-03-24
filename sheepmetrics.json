@@ -1,18 +1,29 @@
 {
-  "updated_at": "2026-03-23T07:14:21.007Z",
+  "updated_at": "2026-03-24T07:07:27.203Z",
   "this_week": {
     "sheepweekindex": "1",
-    "total_head_inc_reoffers": "73165",
-    "clearance_rate_mm": "87",
-    "amount_over_reserve": "22",
-    "arli_ckg_dw": "1346",
-    "arl_change_sheepindex": "-44",
-    "total_head_change_sheepindex": "4",
-    "clearance_rate_change_sheepindex": "-5",
-    "vor_change_sheepindex": "-4"
+    "total_head_inc_reoffers": "66376",
+    "clearance_rate_mm": "86",
+    "amount_over_reserve": "30",
+    "arli_ckg_dw": "1469",
+    "arl_change_sheepindex": "124",
+    "total_head_change_sheepindex": "-9",
+    "clearance_rate_change_sheepindex": "-4",
+    "vor_change_sheepindex": "9"
   },
   "last_week": {
     "sheepweekindex": "2",
+    "total_head_inc_reoffers": "73165",
+    "clearance_rate_mm": "90",
+    "amount_over_reserve": "21",
+    "arli_ckg_dw": "1345",
+    "arl_change_sheepindex": "-45",
+    "total_head_change_sheepindex": "4",
+    "clearance_rate_change_sheepindex": "-1",
+    "vor_change_sheepindex": "-5"
+  },
+  "two_weeks_ago": {
+    "sheepweekindex": "3",
     "total_head_inc_reoffers": "70662",
     "clearance_rate_mm": "91",
     "amount_over_reserve": "26",
@@ -22,8 +33,8 @@
     "clearance_rate_change_sheepindex": "-4",
     "vor_change_sheepindex": "-1"
   },
-  "two_weeks_ago": {
-    "sheepweekindex": "3",
+  "three_weeks_ago": {
+    "sheepweekindex": "4",
     "total_head_inc_reoffers": "53270",
     "clearance_rate_mm": "95",
     "amount_over_reserve": "27",
@@ -32,16 +43,5 @@
     "total_head_change_sheepindex": "-9",
     "clearance_rate_change_sheepindex": "0",
     "vor_change_sheepindex": "-3"
-  },
-  "three_weeks_ago": {
-    "sheepweekindex": "4",
-    "total_head_inc_reoffers": "58253",
-    "clearance_rate_mm": "95",
-    "amount_over_reserve": "31",
-    "arli_ckg_dw": "1346",
-    "arl_change_sheepindex": "68",
-    "total_head_change_sheepindex": "11",
-    "clearance_rate_change_sheepindex": "7",
-    "vor_change_sheepindex": "15"
   }
 }
