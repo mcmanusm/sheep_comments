@@ -1,29 +1,40 @@
 {
-  "updated_at": "2026-04-27T08:29:32.660Z",
+  "updated_at": "2026-04-28T08:27:48.312Z",
   "this_week": {
     "sheepweekindex": "1",
-    "total_head_inc_reoffers": "73000",
-    "clearance_rate_mm": "83",
-    "amount_over_reserve": "14",
-    "arli_ckg_dw": "1367",
-    "arl_change_sheepindex": "-41",
-    "total_head_change_sheepindex": "5",
-    "clearance_rate_change_sheepindex": "-4",
-    "vor_change_sheepindex": "-8"
+    "total_head_inc_reoffers": "62745",
+    "clearance_rate_mm": "66",
+    "amount_over_reserve": "22",
+    "arli_ckg_dw": "1303",
+    "arl_change_sheepindex": "-55",
+    "total_head_change_sheepindex": "-14",
+    "clearance_rate_change_sheepindex": "-20",
+    "vor_change_sheepindex": "8"
   },
   "last_week": {
     "sheepweekindex": "2",
+    "total_head_inc_reoffers": "73000",
+    "clearance_rate_mm": "86",
+    "amount_over_reserve": "14",
+    "arli_ckg_dw": "1358",
+    "arl_change_sheepindex": "-50",
+    "total_head_change_sheepindex": "5",
+    "clearance_rate_change_sheepindex": "-2",
+    "vor_change_sheepindex": "-9"
+  },
+  "two_weeks_ago": {
+    "sheepweekindex": "3",
     "total_head_inc_reoffers": "69604",
     "clearance_rate_mm": "87",
     "amount_over_reserve": "22",
     "arli_ckg_dw": "1408",
     "arl_change_sheepindex": "6",
     "total_head_change_sheepindex": "96",
-    "clearance_rate_change_sheepindex": "2",
+    "clearance_rate_change_sheepindex": "3",
     "vor_change_sheepindex": "3"
   },
-  "two_weeks_ago": {
-    "sheepweekindex": "3",
+  "three_weeks_ago": {
+    "sheepweekindex": "4",
     "total_head_inc_reoffers": "35469",
     "clearance_rate_mm": "84",
     "amount_over_reserve": "19",
@@ -32,16 +43,5 @@
     "total_head_change_sheepindex": "-31",
     "clearance_rate_change_sheepindex": "-5",
     "vor_change_sheepindex": "-12"
-  },
-  "three_weeks_ago": {
-    "sheepweekindex": "4",
-    "total_head_inc_reoffers": "51730",
-    "clearance_rate_mm": "90",
-    "amount_over_reserve": "31",
-    "arli_ckg_dw": "1457",
-    "arl_change_sheepindex": "2",
-    "total_head_change_sheepindex": "-23",
-    "clearance_rate_change_sheepindex": "-5",
-    "vor_change_sheepindex": "5"
   }
 }
