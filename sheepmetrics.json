@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-06-08T10:59:51.691Z",
+  "updated_at": "2026-06-09T09:49:01.855Z",
   "this_week": {
+    "sheepweekindex": "1",
+    "total_head_inc_reoffers": "28330",
+    "clearance_rate_mm": "91",
+    "amount_over_reserve": "32",
+    "arli_ckg_dw": "1443",
+    "arl_change_sheepindex": "-22",
+    "total_head_change_sheepindex": "-3",
+    "clearance_rate_change_sheepindex": "3",
+    "vor_change_sheepindex": "-19"
+  },
+  "last_week": {
     "sheepweekindex": "2",
     "total_head_inc_reoffers": "29234",
     "clearance_rate_mm": "87",
@@ -11,7 +22,7 @@
     "clearance_rate_change_sheepindex": "5",
     "vor_change_sheepindex": "9"
   },
-  "last_week": {
+  "two_weeks_ago": {
     "sheepweekindex": "3",
     "total_head_inc_reoffers": "26336",
     "clearance_rate_mm": "82",
@@ -22,7 +33,7 @@
     "clearance_rate_change_sheepindex": "-7",
     "vor_change_sheepindex": "0"
   },
-  "two_weeks_ago": {
+  "three_weeks_ago": {
     "sheepweekindex": "4",
     "total_head_inc_reoffers": "38318",
     "clearance_rate_mm": "89",
@@ -32,6 +43,5 @@
     "total_head_change_sheepindex": "-13",
     "clearance_rate_change_sheepindex": "16",
     "vor_change_sheepindex": "19"
-  },
-  "three_weeks_ago": null
+  }
 }
