@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-06T10:25:54.810Z",
+  "updated_at": "2026-07-07T09:44:56.277Z",
   "this_week": {
     "sheepweekindex": "1",
+    "total_head_inc_reoffers": "24378",
+    "clearance_rate_mm": "67",
+    "amount_over_reserve": "30",
+    "arli_ckg_dw": "1578",
+    "arl_change_sheepindex": "-66",
+    "total_head_change_sheepindex": "-32",
+    "clearance_rate_change_sheepindex": "-24",
+    "vor_change_sheepindex": "-9"
+  },
+  "last_week": {
+    "sheepweekindex": "2",
     "total_head_inc_reoffers": "35795",
     "clearance_rate_mm": "91",
     "amount_over_reserve": "39",
@@ -11,8 +22,8 @@
     "clearance_rate_change_sheepindex": "1",
     "vor_change_sheepindex": "-4"
   },
-  "last_week": {
-    "sheepweekindex": "2",
+  "two_weeks_ago": {
+    "sheepweekindex": "3",
     "total_head_inc_reoffers": "24245",
     "clearance_rate_mm": "89",
     "amount_over_reserve": "43",
@@ -22,8 +33,8 @@
     "clearance_rate_change_sheepindex": "-5",
     "vor_change_sheepindex": "12"
   },
-  "two_weeks_ago": {
-    "sheepweekindex": "3",
+  "three_weeks_ago": {
+    "sheepweekindex": "4",
     "total_head_inc_reoffers": "32878",
     "clearance_rate_mm": "94",
     "amount_over_reserve": "32",
@@ -32,16 +43,5 @@
     "total_head_change_sheepindex": "15",
     "clearance_rate_change_sheepindex": "0",
     "vor_change_sheepindex": "1"
-  },
-  "three_weeks_ago": {
-    "sheepweekindex": "4",
-    "total_head_inc_reoffers": "28473",
-    "clearance_rate_mm": "94",
-    "amount_over_reserve": "30",
-    "arli_ckg_dw": "1443",
-    "arl_change_sheepindex": "-22",
-    "total_head_change_sheepindex": "-3",
-    "clearance_rate_change_sheepindex": "7",
-    "vor_change_sheepindex": "-20"
   }
 }
