@@ -1,18 +1,29 @@
 {
-  "updated_at": "2026-08-24T07:00:29.611Z",
+  "updated_at": "2026-08-25T06:50:44.765Z",
   "this_week": {
     "sheepweekindex": "1",
-    "total_head_inc_reoffers": "46162",
-    "clearance_rate_mm": "74",
-    "amount_over_reserve": "14",
-    "arli_ckg_dw": "1506",
-    "arl_change_sheepindex": "81",
-    "total_head_change_sheepindex": "-16",
-    "clearance_rate_change_sheepindex": "3",
-    "vor_change_sheepindex": "1"
+    "total_head_inc_reoffers": "50140",
+    "clearance_rate_mm": "79",
+    "amount_over_reserve": "29",
+    "arli_ckg_dw": "1410",
+    "arl_change_sheepindex": "-96",
+    "total_head_change_sheepindex": "9",
+    "clearance_rate_change_sheepindex": "4",
+    "vor_change_sheepindex": "16"
   },
   "last_week": {
     "sheepweekindex": "2",
+    "total_head_inc_reoffers": "46162",
+    "clearance_rate_mm": "75",
+    "amount_over_reserve": "14",
+    "arli_ckg_dw": "1506",
+    "arl_change_sheepindex": "80",
+    "total_head_change_sheepindex": "-16",
+    "clearance_rate_change_sheepindex": "4",
+    "vor_change_sheepindex": "1"
+  },
+  "two_weeks_ago": {
+    "sheepweekindex": "3",
     "total_head_inc_reoffers": "54836",
     "clearance_rate_mm": "71",
     "amount_over_reserve": "12",
@@ -22,8 +33,8 @@
     "clearance_rate_change_sheepindex": "-7",
     "vor_change_sheepindex": "-8"
   },
-  "two_weeks_ago": {
-    "sheepweekindex": "3",
+  "three_weeks_ago": {
+    "sheepweekindex": "4",
     "total_head_inc_reoffers": "55418",
     "clearance_rate_mm": "78",
     "amount_over_reserve": "21",
@@ -32,16 +43,5 @@
     "total_head_change_sheepindex": "-7",
     "clearance_rate_change_sheepindex": "5",
     "vor_change_sheepindex": "3"
-  },
-  "three_weeks_ago": {
-    "sheepweekindex": "4",
-    "total_head_inc_reoffers": "59575",
-    "clearance_rate_mm": "73",
-    "amount_over_reserve": "18",
-    "arli_ckg_dw": "1503",
-    "arl_change_sheepindex": "-62",
-    "total_head_change_sheepindex": "55",
-    "clearance_rate_change_sheepindex": "-4",
-    "vor_change_sheepindex": "-16"
   }
 }
