@@ -1,18 +1,29 @@
 {
-  "updated_at": "2026-09-29T12:19:30.808Z",
+  "updated_at": "2026-10-01T12:38:10.091Z",
   "this_week": {
     "sheepweekindex": "1",
-    "total_head_inc_reoffers": "103609",
-    "clearance_rate_mm": "77",
-    "amount_over_reserve": "23",
-    "arli_ckg_dw": "1382",
-    "arl_change_sheepindex": "-53",
-    "total_head_change_sheepindex": "42",
-    "clearance_rate_change_sheepindex": "-13",
-    "vor_change_sheepindex": "-4"
+    "total_head_inc_reoffers": "109234",
+    "clearance_rate_mm": "54",
+    "amount_over_reserve": "15",
+    "arli_ckg_dw": "1308",
+    "arl_change_sheepindex": "-66",
+    "total_head_change_sheepindex": "5",
+    "clearance_rate_change_sheepindex": "-26",
+    "vor_change_sheepindex": "-7"
   },
   "last_week": {
     "sheepweekindex": "2",
+    "total_head_inc_reoffers": "103609",
+    "clearance_rate_mm": "80",
+    "amount_over_reserve": "21",
+    "arli_ckg_dw": "1374",
+    "arl_change_sheepindex": "-61",
+    "total_head_change_sheepindex": "42",
+    "clearance_rate_change_sheepindex": "-10",
+    "vor_change_sheepindex": "-6"
+  },
+  "two_weeks_ago": {
+    "sheepweekindex": "3",
     "total_head_inc_reoffers": "72760",
     "clearance_rate_mm": "90",
     "amount_over_reserve": "27",
@@ -22,8 +33,8 @@
     "clearance_rate_change_sheepindex": "-2",
     "vor_change_sheepindex": "-8"
   },
-  "two_weeks_ago": {
-    "sheepweekindex": "3",
+  "three_weeks_ago": {
+    "sheepweekindex": "4",
     "total_head_inc_reoffers": "71151",
     "clearance_rate_mm": "92",
     "amount_over_reserve": "36",
@@ -32,16 +43,5 @@
     "total_head_change_sheepindex": "48",
     "clearance_rate_change_sheepindex": "-2",
     "vor_change_sheepindex": "11"
-  },
-  "three_weeks_ago": {
-    "sheepweekindex": "4",
-    "total_head_inc_reoffers": "48219",
-    "clearance_rate_mm": "94",
-    "amount_over_reserve": "25",
-    "arli_ckg_dw": "1481",
-    "arl_change_sheepindex": "73",
-    "total_head_change_sheepindex": "-4",
-    "clearance_rate_change_sheepindex": "8",
-    "vor_change_sheepindex": "-1"
   }
 }
