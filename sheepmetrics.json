@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-05T14:10:58.360Z",
+  "updated_at": "2026-11-06T13:52:42.357Z",
   "this_week": {
     "sheepweekindex": "1",
-    "total_head_inc_reoffers": "72980",
-    "clearance_rate_mm": "85",
-    "amount_over_reserve": "17",
+    "total_head_inc_reoffers": "73117",
+    "clearance_rate_mm": "87",
+    "amount_over_reserve": "16",
     "arli_ckg_dw": "1374",
     "arl_change_sheepindex": "-34",
     "total_head_change_sheepindex": "-17",
-    "clearance_rate_change_sheepindex": "-8",
+    "clearance_rate_change_sheepindex": "-6",
     "vor_change_sheepindex": "-22"
   },
   "last_week": {
