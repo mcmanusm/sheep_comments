@@ -1,47 +1,47 @@
 {
-  "updated_at": "2026-11-22T14:13:55.522Z",
+  "updated_at": "2026-11-26T16:32:13.040Z",
   "this_week": {
     "sheepweekindex": "1",
-    "total_head_inc_reoffers": "99746",
-    "clearance_rate_mm": "83",
-    "amount_over_reserve": "17",
-    "arli_ckg_dw": "1315",
-    "arl_change_sheepindex": "-66",
-    "total_head_change_sheepindex": "-1",
-    "clearance_rate_change_sheepindex": "-1",
-    "vor_change_sheepindex": "1"
+    "total_head_inc_reoffers": "117204",
+    "clearance_rate_mm": "84",
+    "amount_over_reserve": "28",
+    "arli_ckg_dw": "1354",
+    "arl_change_sheepindex": "40",
+    "total_head_change_sheepindex": "18",
+    "clearance_rate_change_sheepindex": "0",
+    "vor_change_sheepindex": "11"
   },
   "last_week": {
     "sheepweekindex": "2",
+    "total_head_inc_reoffers": "99746",
+    "clearance_rate_mm": "85",
+    "amount_over_reserve": "16",
+    "arli_ckg_dw": "1314",
+    "arl_change_sheepindex": "-67",
+    "total_head_change_sheepindex": "-1",
+    "clearance_rate_change_sheepindex": "0",
+    "vor_change_sheepindex": "0"
+  },
+  "two_weeks_ago": {
+    "sheepweekindex": "3",
     "total_head_inc_reoffers": "100899",
     "clearance_rate_mm": "85",
     "amount_over_reserve": "16",
     "arli_ckg_dw": "1381",
     "arl_change_sheepindex": "7",
     "total_head_change_sheepindex": "38",
-    "clearance_rate_change_sheepindex": "-2",
+    "clearance_rate_change_sheepindex": "-3",
     "vor_change_sheepindex": "0"
   },
-  "two_weeks_ago": {
-    "sheepweekindex": "3",
+  "three_weeks_ago": {
+    "sheepweekindex": "4",
     "total_head_inc_reoffers": "73117",
-    "clearance_rate_mm": "87",
+    "clearance_rate_mm": "88",
     "amount_over_reserve": "16",
     "arli_ckg_dw": "1374",
     "arl_change_sheepindex": "-34",
     "total_head_change_sheepindex": "-17",
-    "clearance_rate_change_sheepindex": "-6",
+    "clearance_rate_change_sheepindex": "-5",
     "vor_change_sheepindex": "-22"
-  },
-  "three_weeks_ago": {
-    "sheepweekindex": "4",
-    "total_head_inc_reoffers": "87750",
-    "clearance_rate_mm": "93",
-    "amount_over_reserve": "38",
-    "arli_ckg_dw": "1409",
-    "arl_change_sheepindex": "50",
-    "total_head_change_sheepindex": "33",
-    "clearance_rate_change_sheepindex": "7",
-    "vor_change_sheepindex": "17"
   }
 }
